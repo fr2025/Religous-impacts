@@ -2,7 +2,7 @@ html {
     color: slategray;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
-    background-image: url("5dgw11f5.bmp");
+   /*background-image: url("0lcvh3s9.png"); fix background image for all pages*/
 }
 
 body {
@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
     background-color: rgba(220, 220, 220, 0.9);
     padding: 10px 50px 10px 100px;
-    /* padding: TOP RIGHT BOTTOM LEFT */
+    padding: TOP RIGHT BOTTOM LEFT 
 }
 
 .fixed-nav-bar {
